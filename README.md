@@ -119,6 +119,9 @@ print(f"Recommended worker-thread count: {k_opt}")
 3. Drop the generated `model_mutilhead_1.9.pth` and `feature_scaler.pkl`
    into `ML_model/`.
 
+## Dataset
+https://huggingface.co/datasets/Jmchenn/AutoThread-dataset-runtime-log
+
 ## Citation
 
 ```bibtex
