@@ -124,9 +124,20 @@ https://huggingface.co/datasets/Jmchenn/AutoThread-dataset-runtime-log
 
 ## Citation
 
-```bibtex
-
-```
+@inproceedings{ijcai2026p42,
+  title     = {Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference},
+  author    = {Su, Jiming and Hua, Hantao and Yin, Lujia and Yao, Yiping and Zhu, Feng},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {365--373},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/42},
+  url       = {https://doi.org/10.24963/ijcai.2026/42},
+}
 
 ## License
 
